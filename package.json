@@ -13,6 +13,9 @@
   "dependencies": {
     "prettier": "3.0.0"
   },
+  "publishConfig": {
+  "access": "public"
+  },
   "license": "MIT",
   "description": ""
 }
